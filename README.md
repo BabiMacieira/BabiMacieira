@@ -14,11 +14,11 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-### Here is What I'm Working On! 🤓
+### Here is what I'm working on! 🤓
 - 💻 I’m currently studying Analysis and Development Systems;
 - 🌱 I’m currently learning Java, HTML, CSS and JavaScript;
 - 👯 I’m looking to collaborate on my abilities and skills;
-- 🤔 I’m looking for help with my first oportunity in IT;
+- 💪 I just get my first oportunity in Tech as intern;
 - 💬 Ask me about anything;
 - 📫 How to reach me: [Linkedin - Profile](https://www.linkedin.com/in/barbaramacieiraa/)
 - 😄 Pronouns: She/Her
