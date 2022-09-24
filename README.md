@@ -15,6 +15,11 @@ Here are some ideas to get you started:
 -->
 
 ### Here is what I'm working on! 🤓
+
+<div id="header" align="center">
+  <img src="https://c.tenor.com/AlUkiGkR2j8AAAAM/new-game-ahagon-umiko-programming.gif"  width="230"/>
+  <div id="badges">
+  
 - 💻 I’m currently studying Analysis and Development Systems;
 - 🌱 I’m currently learning Java, HTML, CSS and JavaScript;
 - 👯 I’m looking to collaborate on my abilities and skills;
