@@ -16,7 +16,7 @@ Here are some ideas to get you started:
 
 ### Here is what I'm working on! 🤓
 
-<div id="header" align="center">
+<div id="header" align="left">
   <img src="https://c.tenor.com/AlUkiGkR2j8AAAAM/new-game-ahagon-umiko-programming.gif"  width="230"/>
   <div id="badges">
   
