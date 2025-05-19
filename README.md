@@ -20,11 +20,11 @@ Here are some ideas to get you started:
   <img src="https://c.tenor.com/AlUkiGkR2j8AAAAM/new-game-ahagon-umiko-programming.gif"  width="230"/>
   <div id="badges">
   
-- 💻 I’m currently studying Analysis and Development Systems;
-- 🌱 I’m currently learning Java, HTML, CSS and JavaScript;
+- 💻 I’m currently working on a Bootcamp at [DIO](https://www.dio.me/) pratform;
+- 🌱 I’m living in Lisbon, Portugal;
 - 👯 I’m looking to collaborate on my abilities and skills;
-- 💪 I just get my first oportunity in Tech as intern;
+- 💪 I had my first oportunity in Tech as fullstack intern, where I could develop in Java, Spring Boot, AngularJS, worked with Docker containers, using MariaDB. Also has experienced Agile Methodologies.
 - 💬 Ask me about anything;
 - 📫 How to reach me: [Linkedin - Profile](https://www.linkedin.com/in/barbaramacieiraa/)
 - 😄 Pronouns: She/Her
-- ⚡ Fun fact: I love sports and games!
+- ⚡ Fun fact: I love Jiu-Jitsu and be surrounded by nature!
